@@ -8,6 +8,8 @@
 
 ![Annibal's GitHub stats](https://github-readme-stats.vercel.app/api?username=annibalgulias&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annibalgulias&hide_progress=true)
+
 ### Tecnologias Utilizadas até o momento.
 <div style="display: inline_block"><br/>
     <img align="cente" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
